@@ -1,4 +1,4 @@
-package strategy;
+package strategy.blizzardshop;
 
 public class ChristmasSaleImpl implements Sale {
     @Override

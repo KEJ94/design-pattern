@@ -1,4 +1,4 @@
-package strategy;
+package strategy.blizzardshop;
 
 import java.util.ArrayList;
 import java.util.List;
